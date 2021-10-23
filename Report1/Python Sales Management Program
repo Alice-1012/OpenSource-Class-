@@ -1,0 +1,9 @@
+ This is a Python Sales Management Program Information
+====================================================
+1. Write a Python program processing sales orders
+2. Contents in sales order : Date/Time of Sales, Cashier ID, Sales total, Card/Cash, Item name, Unit Price, Quantities, Sales Amount
+3. Read all the sales orders from a file.
+4. Generate a sales report(e.g. total, min, max, average revenue of daliy, day of the week, per cashier, per item, card/cash)
+5. You can design your own sales report format.
+6. # of items >= 10, # of cashiers >= 3, # of sales orders >= 100
+7. Submit your report including Jupyter notebook, data, and documentation.
