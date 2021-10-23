@@ -32,7 +32,7 @@ Recent_DATE['ALL_AVG_USER'].plot(figsize=(12,4)) #ALL_AVG_USER의 데이터를 �
 df['Month']=df['STD_DATE'].dt.month
 DATE_Month=df.groupby('Month')['ALL_AVG_USER'].aggregate(['max','min','mean']).reset_index()
 DATE_Month
-
+ 
 #지정한 년도의 데이터만 보여줌
 target_year = '2020'
 DATE=df.query('STD_DATE.dt.year == @target_year')
