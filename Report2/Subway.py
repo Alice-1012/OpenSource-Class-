@@ -47,3 +47,4 @@ plt.title('지역별 지하철 평균 탑승객',size =20)
 
 plt.legend(AREA_AVG.index=='SUBW_AREA_NM')
 plt.show()
+ 
