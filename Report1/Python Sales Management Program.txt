@@ -7,3 +7,4 @@
 5. You can design your own sales report format.
 6. # of items >= 10, # of cashiers >= 3, # of sales orders >= 100
 7. Submit your report including Jupyter notebook, data, and documentation.
+ 
